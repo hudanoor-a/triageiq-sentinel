@@ -11,3 +11,4 @@ infra/       → Terraform configs will live here (Week 3)
 scripts/     → operational scripts like health_check.sh
 
 README.md    → project documentation
+main moved forward
