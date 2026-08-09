@@ -1,4 +1,4 @@
-# TriageIQ + Sentinel
+# TriageIQ + Sentinel - Branch B was here
 ## Project Structure
 The mono repo structure has been created where one repo contains multiple services. For this project, mono repo is suitable as all the services are interconnected and deployed together and one CI/CD pipeline can manage both.
 
