@@ -1,0 +1,11 @@
+aws: 
+  region: us-east-1
+  bucket_name: triageiq-raw-data-457184
+
+dataset: 
+  local_path: data/raw_tickets.csv
+  s3_key: raw/raw_tickets.csv
+
+logging:
+  log_file: logs/pipeline.log
+  level: INFO
