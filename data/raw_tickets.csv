@@ -1,0 +1,31 @@
+ticket_id,ticket_text,category,priority
+1,My internet connection keeps dropping every few hours,Network,High
+2,I was charged twice for my subscription this month,Billing,High
+[200~3,How do I reset my account password,Account,Low
+4,The app crashes whenever I try to upload a file,Technical,High
+5,I want to cancel my subscription,Billing,Medium
+6,My account has been locked out,Account,High
+7,The website is very slow today,Technical,Medium
+8,I received the wrong item in my order,Shipping,High
+9,How do I update my payment method,Billing,Low
+10,I cannot login to my account,Account,High
+11,My order has not arrived yet,Shipping,Medium
+12,The mobile app is not working on my phone,Technical,High
+13,I was overcharged on my last invoice,Billing,High
+14,How do I change my email address,Account,Low
+15,Internet speed is much slower than advertised,Network,Medium
+16,I need a refund for my last payment,Billing,High
+17,The app keeps showing an error message,Technical,Medium
+18,My package was delivered to the wrong address,Shipping,High
+19,How do I download my invoice,Billing,Low
+20,I cannot connect to the VPN,Network,High
+21,My subscription was renewed without notice,Billing,Medium
+22,The website login page is not loading,Technical,High
+23,I want to upgrade my plan,Account,Low
+24,My internet is down completely,Network,High
+25,I received a damaged item,Shipping,High
+26,How do I add a second user to my account,Account,Low
+27,I am being charged for a service I cancelled,Billing,High
+28,The app does not support my device,Technical,Medium
+29,My delivery is two weeks late,Shipping,High
+30,How do I check my data usage,Network,Low
