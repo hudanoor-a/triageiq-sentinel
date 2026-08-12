@@ -5,3 +5,17 @@
 2026-08-11 12:25:18,657 - INFO - Uploading data/raw_tickets.csv to s3://triageiq-raw-data-457184/raw/raw_tickets.csv
 2026-08-11 12:25:18,684 - INFO - Upload complete: s3://triageiq-raw-data-457184/raw/raw_tickets.csv
 2026-08-11 12:25:18,684 - INFO - Pipeline finished
+2026-08-11 13:03:24,439 - INFO - Pipeline started
+2026-08-11 13:03:24,439 - INFO - Loaded config from config.yaml
+2026-08-11 13:03:24,452 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-08-11 13:03:24,702 - INFO - Bucket created: triageiq-raw-data-457184
+2026-08-11 13:03:24,702 - INFO - Uploading data/raw_tickets.csv to s3://triageiq-raw-data-457184/raw/raw_tickets.csv
+2026-08-11 13:03:24,826 - INFO - Upload complete: s3://triageiq-raw-data-457184/raw/raw_tickets.csv
+2026-08-11 13:03:24,826 - INFO - Pipeline finished
+2026-08-12 10:04:37,113 - INFO - Pipeline started
+2026-08-12 10:04:37,114 - INFO - Loaded config from config.yaml
+2026-08-12 10:04:37,130 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-08-12 10:04:37,955 - INFO - Bucket created: triageiq-raw-data-457184
+2026-08-12 10:04:37,955 - INFO - Uploading data/raw_tickets.csv to s3://triageiq-raw-data-457184/raw/raw_tickets.csv
+2026-08-12 10:04:38,099 - INFO - Upload complete: s3://triageiq-raw-data-457184/raw/raw_tickets.csv
+2026-08-12 10:04:38,099 - INFO - Pipeline finished
